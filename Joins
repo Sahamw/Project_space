@@ -1,4 +1,4 @@
-# Inner join is created to locate top 5 customers in any of the top 10 cities who’ve paid the highest total amounts to Rockbuster Video
+# Inner join is created to locate top 5 customers in any of the top 10 cities who’ve paid the highest total amounts to Rockbuster Video.
 
 SELECT A.customer_id,
 A.First_name,
