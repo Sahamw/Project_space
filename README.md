@@ -28,10 +28,6 @@ The data for this project is fabricated and provided with the the project brief,
 Visualizations were created in Tableau. The link to the storyboard can be found here
 
 
-<h1>Visualizations</h1>
-
-Link to the Tableau visualization based on analysis. 
-
 
 
 
